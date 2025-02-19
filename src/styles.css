@@ -1,0 +1,18 @@
+body {
+  background-color: #f8f9fa;
+  font-family: "Poppins", sans-serif;
+}
+
+textarea {
+  resize: none;
+}
+
+h1,
+h2 {
+  font-weight: 600;
+}
+
+.btn {
+  font-weight: 500;
+  text-transform: uppercase;
+}
